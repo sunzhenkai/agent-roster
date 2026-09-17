@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# 运行痕迹与本地数据一律不进仓库
+.agent-roster/
+runs/
